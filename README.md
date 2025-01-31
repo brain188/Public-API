@@ -37,7 +37,7 @@ This project is a publicly accessible RESTful API built using Python and Flask. 
     "github_url": "https://github.com/yourusername/repositoryname.git"
 }
 
-## Additional Resource
+## Reference
 
  https://hng.tech/hire/python-developers
 

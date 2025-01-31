@@ -28,7 +28,7 @@ This project is a publicly accessible RESTful API built using Python and Flask. 
 
 ## API Documentation
 
-1. URL Endpoint : 
+1. URL Endpoint : it is publicly accessible at https://public-api-qvrh.onrender.com
 
 2. Response/Request Format :
 {
